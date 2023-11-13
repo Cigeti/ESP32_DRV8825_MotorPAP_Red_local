@@ -20,8 +20,6 @@ Al estar seguro de que todo funcione correctamente, suba el proyecto principal y
 
 - Este proyecto ha sido posible gracias a la colaboración de Andrés Hernández Chaves e Ignacio Cordero Chinchilla durante la práctica supervisada del año 2023.
 
-- La progamacion y el diagrama se obtuvieron gracias a: www.dinastiatecnologica.com
-
 ## Problemas o Sugerencias
 
 - Instalar la libreria: WiFi
